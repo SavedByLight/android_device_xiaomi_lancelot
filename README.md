@@ -1,2 +1,10 @@
-# android_device_xiaomi_lancelot
-Xiaomi Redmi 9 | initial
+# Android device tree for Redmi lancelot (lancelot)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
